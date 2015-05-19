@@ -1,4 +1,4 @@
-package oop01.encapsule;
+package oop02.encapsule;
 
 public class NumberMatchService { //game() 와 Controller에 있는 for문 포함
 	NumberMatchVO vo = new NumberMatchVO();

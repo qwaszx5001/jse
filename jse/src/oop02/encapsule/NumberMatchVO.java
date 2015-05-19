@@ -1,4 +1,4 @@
-package oop01.encapsule;
+package oop02.encapsule;
 
 public class NumberMatchVO { //순수 맴변과 게터세터 만...
 	
